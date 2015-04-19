@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: c1405487607e0406ea85ccdb3c58bfa0
+timeCreated: 1429453960
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: caja320b
+    21300002: caja320a
+    21300004: caja320d
+    21300006: caja320f
+    21300008: caja320c
+    21300010: caja320e
+    21300012: caja1500a
+    21300014: caja1500c
+    21300016: caja1500b
+    21300018: caja1500d
+    21300020: pincho3
+    21300022: pincho5
+    21300024: pincho4
+    21300026: pincho1
+    21300028: pincho2
+    21300030: rayo4
+    21300032: rayo1
+    21300034: rayo2
+    21300036: rayo5
+    21300038: rayo3
+    21300040: rayo7
+    21300042: rayo6
+    21300044: rayo8
+    21300046: diamante1
+    21300048: diamante2
+    21300050: diamante3
+    21300052: diamante4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: caja1500a
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 1531
+        height: 248
+      alignment: 9
+      pivot: {x: .500979781, y: .508064508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caja1500c
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 251
+        width: 1523
+        height: 240
+      alignment: 9
+      pivot: {x: .498358488, y: .483333319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caja1500b
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 493
+        width: 1516
+        height: 245
+      alignment: 9
+      pivot: {x: .501319289, y: .477551013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caja1500d
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 740
+        width: 1514
+        height: 247
+      alignment: 9
+      pivot: {x: .500660479, y: .493927121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caja320b
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1
+        width: 309
+        height: 320
+      alignment: 9
+      pivot: {x: .511326849, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caja320d
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 493
+        width: 315
+        height: 318
+      alignment: 9
+      pivot: {x: .498412699, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caja320a
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 989
+        width: 316
+        height: 318
+      alignment: 9
+      pivot: {x: .5, y: .503144681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caja320f
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 813
+        width: 317
+        height: 312
+      alignment: 9
+      pivot: {x: .495268136, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caja320c
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1309
+        width: 304
+        height: 316
+      alignment: 9
+      pivot: {x: .506578922, y: .506329119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: caja320e
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 989
+        width: 304
+        height: 313
+      alignment: 9
+      pivot: {x: .496710539, y: .4888179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayo1
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1
+        width: 126
+        height: 58
+      alignment: 9
+      pivot: {x: .492063493, y: .551724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayo4
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 323
+        width: 126
+        height: 56
+      alignment: 9
+      pivot: {x: .507936537, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayo2
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 323
+        width: 125
+        height: 46
+      alignment: 9
+      pivot: {x: .488000005, y: .565217376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayo5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1309
+        width: 124
+        height: 54
+      alignment: 9
+      pivot: {x: .483870953, y: .462962955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayo7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1627
+        width: 122
+        height: 49
+      alignment: 9
+      pivot: {x: .5, y: .448979586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayo3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1127
+        width: 122
+        height: 56
+      alignment: 9
+      pivot: {x: .508196712, y: .428571433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayo6
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 381
+        width: 121
+        height: 33
+      alignment: 9
+      pivot: {x: .504132211, y: .393939406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rayo8
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 61
+        width: 116
+        height: 52
+      alignment: 9
+      pivot: {x: .517241359, y: .461538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamante1
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 323
+        width: 77
+        height: 96
+      alignment: 9
+      pivot: {x: .571428597, y: .541666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamante2
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 371
+        width: 79
+        height: 89
+      alignment: 9
+      pivot: {x: .569620252, y: .539325833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamante3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1304
+        width: 84
+        height: 87
+      alignment: 9
+      pivot: {x: .571428597, y: .517241359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamante4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1627
+        width: 82
+        height: 81
+      alignment: 9
+      pivot: {x: .536585391, y: .506172836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincho3
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: .5, y: .538461566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincho5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 989
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: .538461566, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincho4
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 989
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: .551724136, y: .551724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincho1
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1127
+        width: 23
+        height: 28
+      alignment: 9
+      pivot: {x: .521739125, y: .571428597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincho2
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1185
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: .481481493, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

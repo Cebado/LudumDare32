@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 770cdb5a8fc284e568a63a5b89d470c6
+timeCreated: 1429460549
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle1
+    21300002: Idle2
+    21300004: Idle5
+    21300006: Idle4
+    21300008: Idle3
+    21300010: running1
+    21300012: running2
+    21300014: running3
+    21300016: pushing3
+    21300018: pushing1
+    21300020: pushing2
+    21300022: pushing3
+    21300024: pushing1
+    21300026: pushing2
+    21300028: power4
+    21300030: power3
+    21300032: power2
+    21300034: power1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Idle2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 76
+        height: 216
+      alignment: 9
+      pivot: {x: .473684222, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 79
+        height: 212
+      alignment: 9
+      pivot: {x: .506329119, y: .509433985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 219
+        width: 78
+        height: 212
+      alignment: 9
+      pivot: {x: .487179488, y: .490566045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 74
+        height: 211
+      alignment: 9
+      pivot: {x: .486486495, y: .497630328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Idle3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 215
+        width: 74
+        height: 208
+      alignment: 9
+      pivot: {x: .459459454, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pushing3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1
+        width: 101
+        height: 208
+      alignment: 9
+      pivot: {x: .316831678, y: .461538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 214
+        width: 57
+        height: 207
+      alignment: 9
+      pivot: {x: .578947365, y: .458937198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pushing1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1
+        width: 102
+        height: 206
+      alignment: 9
+      pivot: {x: .333333343, y: .466019422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 211
+        width: 106
+        height: 201
+      alignment: 9
+      pivot: {x: .415094346, y: .462686568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pushing2
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 125
+        height: 199
+      alignment: 9
+      pivot: {x: .456, y: .44723618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: running1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 209
+        width: 121
+        height: 198
+      alignment: 9
+      pivot: {x: .628099203, y: .454545468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: power4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 433
+        width: 58
+        height: 62
+      alignment: 9
+      pivot: {x: .517241359, y: .483870953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: power3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 425
+        width: 45
+        height: 51
+      alignment: 9
+      pivot: {x: .555555582, y: .509803951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: power2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 423
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: .571428597, y: .518518507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: power1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 414
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

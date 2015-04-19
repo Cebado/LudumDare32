@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: b836b9676787e4f7481df9ec128b5ef9
+timeCreated: 1429465883
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 512e
+    21300002: 512d
+    21300004: 512f
+    21300006: 512b
+    21300008: 512c
+    21300010: 512a
+    21300012: 512g
+    21300014: linea256b
+    21300016: linea256a
+    21300018: linea256c
+    21300020: linea256d
+    21300022: barra3
+    21300024: barra1
+    21300026: cero3
+    21300028: cero4
+    21300030: dos2
+    21300032: cero1
+    21300034: dos3
+    21300036: cero2
+    21300038: dos4
+    21300040: uno2
+    21300042: uno3
+    21300044: barra2
+    21300046: barra5
+    21300048: dos1
+    21300050: uno4
+    21300052: uno1
+    21300054: barra4
+    21300056: diamante3
+    21300058: diamante4
+    21300060: diamante1
+    21300062: diamante2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 512e
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 493
+        height: 23
+      alignment: 9
+      pivot: {x: .503042579, y: .434782594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 512d
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 26
+        width: 493
+        height: 19
+      alignment: 9
+      pivot: {x: .496957392, y: .315789461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 512f
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 490
+        height: 20
+      alignment: 9
+      pivot: {x: .497959197, y: .400000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 512b
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 488
+        height: 24
+      alignment: 9
+      pivot: {x: .524590135, y: .333333343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 512c
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 484
+        height: 16
+      alignment: 9
+      pivot: {x: .502066135, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 512a
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 481
+        height: 20
+      alignment: 9
+      pivot: {x: .525987506, y: .400000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 512g
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 135
+        width: 474
+        height: 17
+      alignment: 9
+      pivot: {x: .518987358, y: .529411793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linea256b
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 154
+        width: 249
+        height: 16
+      alignment: 9
+      pivot: {x: .514056206, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linea256a
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 154
+        width: 247
+        height: 15
+      alignment: 9
+      pivot: {x: .506072879, y: .333333343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linea256d
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 244
+        height: 16
+      alignment: 9
+      pivot: {x: .508196712, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: linea256c
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 171
+        width: 244
+        height: 14
+      alignment: 9
+      pivot: {x: .504098356, y: .142857149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 190
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: .5, y: .466666669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 187
+        width: 43
+        height: 59
+      alignment: 9
+      pivot: {x: .511627913, y: .508474588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cero1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 252
+        width: 27
+        height: 56
+      alignment: 9
+      pivot: {x: .629629612, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cero4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 190
+        width: 30
+        height: 56
+      alignment: 9
+      pivot: {x: .600000024, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dos2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 187
+        width: 39
+        height: 56
+      alignment: 9
+      pivot: {x: .538461566, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dos3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 252
+        width: 38
+        height: 56
+      alignment: 9
+      pivot: {x: .552631557, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cero3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 190
+        width: 32
+        height: 56
+      alignment: 9
+      pivot: {x: .625, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cero2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 187
+        width: 32
+        height: 55
+      alignment: 9
+      pivot: {x: .625, y: .527272701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dos4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 245
+        width: 41
+        height: 55
+      alignment: 9
+      pivot: {x: .51219511, y: .527272701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: uno3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 310
+        width: 26
+        height: 54
+      alignment: 9
+      pivot: {x: .653846145, y: .537037015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 190
+        width: 40
+        height: 54
+      alignment: 9
+      pivot: {x: .5, y: .518518507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 187
+        width: 36
+        height: 54
+      alignment: 9
+      pivot: {x: .444444448, y: .481481493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: uno2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 248
+        width: 25
+        height: 54
+      alignment: 9
+      pivot: {x: .680000007, y: .518518507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dos1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 244
+        width: 42
+        height: 53
+      alignment: 9
+      pivot: {x: .428571433, y: .528301895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: uno4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 95
+        width: 24
+        height: 53
+      alignment: 9
+      pivot: {x: .666666687, y: .509433985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: uno1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 310
+        width: 25
+        height: 52
+      alignment: 9
+      pivot: {x: .680000007, y: .538461566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 366
+        width: 37
+        height: 51
+      alignment: 9
+      pivot: {x: .540540516, y: .509803951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamante3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 190
+        width: 50
+        height: 46
+      alignment: 9
+      pivot: {x: .5, y: .543478251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamante4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 246
+        width: 49
+        height: 47
+      alignment: 9
+      pivot: {x: .510204077, y: .553191483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamante1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 187
+        width: 49
+        height: 46
+      alignment: 9
+      pivot: {x: .510204077, y: .478260875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: diamante2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 302
+        width: 49
+        height: 46
+      alignment: 9
+      pivot: {x: .510204077, y: .543478251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

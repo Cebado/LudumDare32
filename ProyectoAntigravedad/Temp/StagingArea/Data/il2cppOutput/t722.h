@@ -1,0 +1,50 @@
+﻿#pragma once
+#include <stdint.h>
+struct t34;
+struct t731;
+struct t463;
+#include "t7.h"
+struct t722  : public t7
+{
+	bool f0;
+	t34* f1;
+	t34* f2;
+	t34* f3;
+	t34* f4;
+	t34* f5;
+	int32_t f6;
+	t34* f7;
+	t34* f8;
+	t731* f9;
+	int32_t f10;
+	int32_t f11;
+	t34* f12;
+	t34* f13;
+	t34* f14;
+	t34* f15;
+	int32_t f16;
+	t34* f17;
+	t34* f18;
+	t731* f19;
+	int32_t f20;
+	int32_t f21;
+	t34* f22;
+	t34* f23;
+	t731* f24;
+	int32_t f25;
+	int32_t f26;
+	t34* f27;
+	t34* f28;
+	t34* f29;
+	t34* f30;
+	t34* f31;
+	int32_t f32;
+	bool f33;
+	bool f34;
+	bool f35;
+	t463* f36;
+	int32_t f37;
+};
+struct t722_SFs{
+	t463* f38;
+};
